@@ -12,5 +12,8 @@ There are fine applescripts which provide the whole solution. It's my pleasure t
 
 软件该怎么写？这里有五个脚本，提供了完整的解决方案，贴心一条龙服务。 
 
+![image](https://github.com/WhisperRain/RamDisk/blob/master/RamDisk.tiff)
+
+
 
  
